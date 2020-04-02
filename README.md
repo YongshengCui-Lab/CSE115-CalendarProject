@@ -1,2 +1,10 @@
-# CSE115-CalendarProject
-This is calendar project for CSE115a in UCSC
+# CSE115aProject
+Setting up Django
+- pip install django
+- ./manage.py migrate
+- ./manage.py runserver
+
+Setting up React-Redux
+- sudo npm install -g create-react-app
+- npm install react-redux redux redux-logger
+- npm start
